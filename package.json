@@ -1,0 +1,15 @@
+{
+  "name": "devops-kubernetes",
+  "version": "1.0.0",
+  "description": "Super simple node.js server for devops kubernetes lab",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
